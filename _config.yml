@@ -1,6 +1,6 @@
 name: appletdesign
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.47742
 typography_spectrum: 0.33755
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#d7facf'
     - '#a8c9b5'
     - '#616a67'
-  brandStrength: 0.5
-  lightness: 0.9375
-  saturation: 0.625
-  rhythmicContrast: 1
+  brandStrength: 0
+  lightness: 0.5625
+  saturation: 0.125
+  rhythmicContrast: 0
 purpose: []
