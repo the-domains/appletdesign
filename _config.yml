@@ -1,7 +1,7 @@
 name: appletdesign
 favicon: null
-layout_spectrum: 0.691011076560244
-typography_spectrum: 0.10035185818560421
+layout_spectrum: 1
+typography_spectrum: 0.32792
 cta:
   domain: null
   bucket: null
