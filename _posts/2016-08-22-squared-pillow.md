@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-22T21:08:00.258Z'
+datePublished: '2016-08-22T21:08:44.965Z'
 sourcePath: _posts/2016-08-22-squared-pillow.md
 inFeed: true
 authors: []
@@ -7,7 +7,7 @@ hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-22T21:07:59.791Z'
+dateModified: '2016-08-22T21:08:44.727Z'
 title: ''
 publisher: {}
 description: Squared pillow
